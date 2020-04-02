@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KKS Suppliers Club</title>
-    <link>http://kksclub.com/</link>
+    <link>https://kksclub.github.io/</link>
     <description>Recent content on KKS Suppliers Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://kksclub.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kksclub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
