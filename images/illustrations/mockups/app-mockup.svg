@@ -175,7 +175,7 @@
                 <tspan x="135" y="78">20,123</tspan>
             </text>
             <text id="$" font-family="Camphor-Regular, Camphor" font-size="18" font-weight="normal" fill="#FFFFFF">
-                <tspan x="124" y="67">$</tspan>
+                <tspan x="124" y="76">$</tspan>
             </text>
             <g id="Group" transform="translate(20.000000, 31.000000)">
                 <path d="M0.5,37 L24.5,14 L54.5,33 L80.5,11 L80.5,63 C80.5,65.7614237 78.2614237,68 75.5,68 L5.5,68 C2.73857625,68 0.5,65.7614237 0.5,63 L0.5,37 L0.5,37 Z" id="Rectangle" fill="#FFFFFF" opacity="0.302780878"></path>
