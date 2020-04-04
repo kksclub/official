@@ -4,7 +4,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="45px" height="45px" viewBox="0 0 45 45" enable-background="new 0 0 45 45" xml:space="preserve">
 <g transform="translate(1 1)">
-	<circle fill="none" stroke="#9900FF" stroke-width="2" stroke-opacity="0" cx="22" cy="22" r="6">
+	<circle fill="none" stroke="#9966FF" stroke-width="2" stroke-opacity="0" cx="22" cy="22" r="6">
 	
 		<animate  fill="remove" dur="3s" values="6;22" calcMode="linear" begin="1.5s" attributeName="r" additive="replace" repeatCount="indefinite" restart="always" accumulate="none">
 		</animate>
@@ -15,7 +15,7 @@
 		<animate  fill="remove" dur="3s" values="2;0" calcMode="linear" begin="1.5s" attributeName="stroke-width" additive="replace" repeatCount="indefinite" restart="always" accumulate="none">
 		</animate>
 	</circle>
-	<circle fill="none" stroke="#9900FF" stroke-width="2" stroke-opacity="0" cx="22" cy="22" r="6">
+	<circle fill="none" stroke="#9966FF" stroke-width="2" stroke-opacity="0" cx="22" cy="22" r="6">
 	
 		<animate  fill="remove" dur="3s" values="6;22" calcMode="linear" begin="3s" attributeName="r" additive="replace" repeatCount="indefinite" restart="always" accumulate="none">
 		</animate>
@@ -26,7 +26,7 @@
 		<animate  fill="remove" dur="3s" values="2;0" calcMode="linear" begin="3s" attributeName="stroke-width" additive="replace" repeatCount="indefinite" restart="always" accumulate="none">
 		</animate>
 	</circle>
-	<circle fill="none" stroke="#9900FF" stroke-width="2" cx="22" cy="22" r="8">
+	<circle fill="none" stroke="#9966FF" stroke-width="2" cx="22" cy="22" r="8">
 	
 		<animate  fill="remove" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" begin="0s" attributeName="r" additive="replace" repeatCount="indefinite" restart="always" accumulate="none">
 		</animate>
